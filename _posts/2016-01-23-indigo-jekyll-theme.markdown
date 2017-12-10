@@ -11,7 +11,7 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: true
-externalLink: https://srinivasacharg.github.io/achar/classrrom.html
+externalLink: https://srinivasacharg.github.io/achar/classroom.html
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
