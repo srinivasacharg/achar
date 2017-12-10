@@ -11,7 +11,7 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: true
-externalLink: https://srinivasacharg.github.io/achar/classroom.html
+externalLink: https://srinivasacharg.github.io/achar/pages/2016-01-23-indigo-jekyll-theme.html
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
