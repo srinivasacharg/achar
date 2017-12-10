@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: johndoe
-externalLink: false
+externalLink: true
 externalLink: https://srinivasacharg.github.io/achar/classrrom.html
 ---
 
